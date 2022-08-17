@@ -5,10 +5,12 @@ Soy un apasionado por el mundo de la tecnología, me gusta aprender algo nuevo e
 
 
 Tecnologías:
+
 Nodejs, Javascript, Express, Sequelize, PostrgreSQL, MySQL, GraphicQL, NestJs, MySQL, Postman, TypeScript
 Apollo GraphQL,  Html, Css, Bootstrap, React, Redux, NextJS , Git
 
 
 Contacto: 
+
 Linkedin: https://www.linkedin.com/in/agustinfidelio/
 Correo: agustin.fidelio@gmail.com
