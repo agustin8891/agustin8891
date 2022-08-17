@@ -1,16 +1,14 @@
-### Hi there 👋
+Hola, Soy Agustín Fidelio.
 
-<!--
-**agustin8891/agustin8891** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy Full Stack Web Developer.
+Soy un apasionado por el mundo de la tecnología, me gusta aprender algo nuevo en programación todos los días. Mi experiencia laboral me ayudó a aprender a resolver problemas y a tener buen trato con la gente, además de trabajar en equipo.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tecnologías:
+Nodejs, Javascript, Express, Sequelize, PostrgreSQL, MySQL, GraphicQL, NestJs, MySQL, Postman, TypeScript
+Apollo GraphQL,  Html, Css, Bootstrap, React, Redux, NextJS , Git
+
+
+Contacto: 
+Linkedin: https://www.linkedin.com/in/agustinfidelio/
+Correo: agustin.fidelio@gmail.com
